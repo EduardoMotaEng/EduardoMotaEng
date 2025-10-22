@@ -1,52 +1,44 @@
-# 👋 Olá, eu sou Eduardo Mota
+# 👋 Hi, I'm Eduardo Mota
+
+Mechanical Engineering student | Interested in **Oil & Gas Industry**  
+Currently learning **Python, MATLAB, and CAD design** to solve engineering problems.
 
 ---
 
-## 🎓 Formação acadêmica
+## 🛠️ Skills
 
-- Cursando **Engenharia Mecânica** – Universidade Estácio de Sá (início: 2025)
-
----
-
-## 💡 Sobre mim
-
-Sou estudante de Engenharia Mecânica, apaixonado por projetos mecânicos e programação. Estou começando a aprender programação e design mecânico e tenho muita motivação para crescer nessas áreas e aplicar meus conhecimentos em projetos práticos.
+- Python (basic programming, numerical calculations) (https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- MATLAB (simulations, data analysis) (https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
+- CAD (Autocad) (https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk)
+- Excel (calculations and data organization) (https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
 
 ---
 
-## 📚 Atualmente estudando
+## 🚀 Projects & Learning
 
-- Python 🐍 (conceitos básicos e exercícios)  
-- AutoCAD 🛠️ (desenho técnico mecânico)  
-- MATLAB (começando a explorar)  
+- **Spring & Pendulum Simulation** – MATLAB simulation of harmonic motion  
+- **Mechanical Calculator** – Python scripts for basic mechanical calculations  
+- **CAD Practice** – Simple mechanical parts designed in SolidWorks  
 
----
-
-## ⚙️ Habilidades
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E3002F?style=for-the-badge&logo=autodesk&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-F0DB4F?style=for-the-badge&logo=matlab&logoColor=black)  
-![Inglês](https://img.shields.io/badge/English-Fluent-brightgreen?style=for-the-badge&logo=google&logoColor=white)  
+*(More projects coming as I learn!)*
 
 ---
 
-## 🎯 Objetivos
+## 🌱 Currently Learning
 
-- Desenvolver habilidades em programação aplicada à engenharia  
-- Criar projetos mecânicos detalhados e funcionais  
-- Buscar estágio para ganhar experiência prática  
-
----
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/eduardo-mota-da-silva-duarte-terra-04a8b5370/)  
-- [GitHub](https://github.com/EduardoMotaEng)  
-- Email: eduardodterra@gmail.com  
+- Fluid Mechanics & Thermodynamics  
+- Material Properties & Strength of Materials  
+- Basics of Computational Fluid Dynamics (CFD)
 
 ---
 
+## 📫 Connect with Me
 
-> “A engenharia é a arte de aplicar ciência para o benefício humano.”  
-> — Henry Petroski
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardomota-eng/)  
+Email: eduardodterra@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I’m passionate about combining engineering knowledge with coding to solve real-world problems — even at the beginner level!
+
