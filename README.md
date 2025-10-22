@@ -7,10 +7,10 @@ Currently learning **Python, MATLAB, and CAD design** to solve engineering probl
 
 ## 🛠️ Skills
 
-- Python (basic programming, numerical calculations) (https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- MATLAB (simulations, data analysis) (https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
-- CAD (Autocad) (https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk)
-- Excel (calculations and data organization) (https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
+- Python (basic programming, numerical calculations)(https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- MATLAB (simulations, data analysis)(https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
+- CAD (Autocad)(https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk)
+- Excel (calculations and data organization)(https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
 
 ---
 
