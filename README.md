@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Eduardo Mota
 
-Mechanical Engineering student | Interested in **Oil & Gas Industry**  
+Mechanical Engineering student | Interested in the **Oil & Gas Industry**  
 Currently learning **Python, MATLAB, and CAD design** to solve engineering problems.
 
 ---
 
 ## 🛠️ Skills
 
-- Python (basic programming, numerical calculations)(https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- MATLAB (simulations, data analysis)(https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
-- CAD (Autocad)(https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk)
-- Excel (calculations and data organization)(https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) Python (basic programming, numerical calculations)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab) MATLAB (simulations, data analysis)  
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-333333?style=flat&logo=autodesk) CAD (AutoCAD)  
+![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel) Excel (calculations and data organization)
 
 ---
 
@@ -41,4 +41,3 @@ Email: eduardodterra@gmail.com
 
 ## ⚡ Fun Fact
 I’m passionate about combining engineering knowledge with coding to solve real-world problems — even at the beginner level!
-
